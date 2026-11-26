@@ -1,4 +1,4 @@
-# simplificacion_terminologia_medica_otros_anexos
+# Simplificación de Terminología Médica
 
 # Materiales complementarios
 
