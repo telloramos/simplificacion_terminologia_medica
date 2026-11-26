@@ -1,6 +1,6 @@
-### Simplificación de Terminología Médica
+# Simplificación de Terminología Médica
 
-# Recursos complementarios
+## Recursos complementarios
 
 En este repositorio se incluyen archivos correspondientes a tres cuestiones distintas del trabajo:
 
