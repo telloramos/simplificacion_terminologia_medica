@@ -1,0 +1,14 @@
+categoria,chi_cuadrado,gl,p,W_Kendall
+n_tokens,1154.0052,4,<.001,0.577
+longitud_media_oracion,212.203,4,<.001,0.1061
+ttr_formas,202.1778,4,<.001,0.1011
+ttr_lemas,243.4716,4,<.001,0.1217
+profundidad_max_dependencias,157.6275,4,<.001,0.0788
+inflesz,647.6514,4,<.001,0.3238
+prop_hapax,468.91,4,<.001,0.2345
+prop_sust,363.2709,4,<.001,0.1816
+prop_adj,652.0413,4,<.001,0.326
+prop_adv,230.0776,4,<.001,0.115
+prop_vbos,862.4304,4,<.001,0.4312
+densidad_lexica,140.5063,4,<.001,0.0703
+BERTscore_F1,696.0985,3,<.001,0.4641
