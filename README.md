@@ -1,8 +1,8 @@
-# Simplificación de Terminología Médica
+### Simplificación de Terminología Médica
 
 # Recursos complementarios
 
-En la carpeta `extra_anexos` se incluyen archivos correspondientes a tres cuestiones distintas del trabajo:
+En este repositorio se incluyen archivos correspondientes a tres cuestiones distintas del trabajo:
 
 1.  **Dataset del estudio**
     
