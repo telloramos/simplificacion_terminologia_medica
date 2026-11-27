@@ -32,10 +32,7 @@ En la carpeta `detalle_analisis_estadistico` se presentan los resultados del an�
 
 El archivo `resultados_descriptivos.csv` facilita información extra correspondiente a la estadística descriptiva: mediana, cuartiles, mínimo y máximo.
 
-### 3. Taxonomía de errores
 
+### 3. Análisis de errores
 
-
-### 4. Análisis de errores
-
-En la carpeta `análisis_errores` se proporciona un corpus en formato JSON anotado de acuerdo con el sistema de etiquetas planteado en este estudio.
+En la carpeta `análisis_errores` se proporciona la taxonomía de errores desarrollada para este estudio, con explicaciones y ejemplos, y un conjunto del dataset en formato JSON anotado de acuerdo con este sistema de etiquetas.
